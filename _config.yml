@@ -28,7 +28,7 @@ url: https://nikkiszc.github.io/ # the base hostname & protocol for your site, e
 github_username:  nikkiszc
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
